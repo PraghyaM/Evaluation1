@@ -1,0 +1,1 @@
+This project is a Wet-Dry-Metal Waste Segregation System designed for efficient waste management using Arduino and sensors.
